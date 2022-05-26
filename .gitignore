@@ -1,0 +1,11 @@
+*.asv
+
+*.fig
+
+*.png
+
+*.mat
+
+*.csv
+
+*.nii
